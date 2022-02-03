@@ -6,7 +6,7 @@ Certificado desenvolvido ao longo da imersão DEV, da Alura.
 
 ## 📁 Acesso ao projeto
 
-https://akemialice.github.io/certificado-imersao/
+[Clique aqui para acessar o projeto!](https://akemialice.github.io/certificado-imersao/)
 
 <br>
 
