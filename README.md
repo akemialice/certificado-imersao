@@ -2,8 +2,5 @@
 
 Desafio desenvolvido ao longo da imersão DEV, da Alura.
 <br>
-#### Tema claro
-![Screenshot_14](https://user-images.githubusercontent.com/86382666/152422188-1ee3d0d5-fe7c-4f6a-8233-12f6e2619c38.png)
-<br>
-#### Tema escuro
-![Screenshot_15](https://user-images.githubusercontent.com/86382666/152422193-3a005cab-ad6b-42b1-8a55-7f6c16bd082b.png)
+![Screenshot_16](https://user-images.githubusercontent.com/86382666/152424297-63cb792f-d0a7-48e4-afc9-f425a8a990b9.png)
+![Screenshot_17](https://user-images.githubusercontent.com/86382666/152424298-62223fed-3f9b-4de3-9d5a-96237a30eba8.png)
